@@ -19,8 +19,5 @@ pip install numpy pandas matplotlib seaborn
 ## Usage
 Open the Jupyter Notebook files in your browser and follow along with the examples provided. Each notebook contains code snippets and explanations to help you understand the concepts.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributor
 Rituparna Das
