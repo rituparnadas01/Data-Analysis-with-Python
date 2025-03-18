@@ -10,12 +10,6 @@ Each notebook provides examples and explanations of how to use these libraries e
 - **Matplotlib**: A plotting library for creating static, animated, and interactive visualizations in Python.
 - **Seaborn**: A statistical data visualization library based on Matplotlib that provides a high-level interface for drawing attractive graphics.
 
-## Notebooks
-- Data_Analysis_with_NumPy.ipynb
-- Data_Analysis_with_Pandas.ipynb
-- Data_Visualization_with_Matplotlib.ipynb
-- Data_Visualization_with_Seaborn.ipynb
-
 ## Installation
 To run the notebooks, ensure you have Jupyter Notebook installed, and then install the required libraries using:
 
